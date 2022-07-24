@@ -1,0 +1,22 @@
+Q1. What is the difference between list and tuples in Python?
+Q2. What are Dict and List comprehensions?
+Q3. What are the common built-in data types in Python?
+Q4. What is slicing in Python?
+Q5. What are Keywords in Python?
+Q6. What are local variables and global variables in Python?
+Q7. Is python case sensitive?
+Q8. What is type conversion in Python?
+Q9. What are functions in Python?
+Q10. What is a lambda function?
+Q11. How does break, continue and pass work?
+Q12. What does [::-1] do?
+Q13. How will you capitalize the first letter of string?
+Q14. How will you convert a string to all lowercase?
+Q15. How to comment multiple lines in python?
+Q16. What is a dictionary in Python?
+Q17. What does this mean: *args, **kwargs? And why would we use it?
+Q18.  What does len() do?
+Q19. What are negative indexes and why are they used?
+Q20.  What are the built-in types of python?
+
+    
